@@ -1,10 +1,10 @@
 from antlr4 import *
 from ExprLexer import ExprLexer
 
-#entrada = "edad = 18"
+entrada = "if edad > 18"
 
-lexer = ExprLexer(InputStream(input("?")))
-#lexer = ExprLexer(InputStream(entrada))
+#lexer = ExprLexer(InputStream(input("?")))
+lexer = ExprLexer(InputStream(entrada))
 
 tokens = CommonTokenStream(lexer)
 tokens.fill()
