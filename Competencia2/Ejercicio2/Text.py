@@ -1,7 +1,10 @@
 from antlr4 import *
 from ExprLexer import ExprLexer
 
-lexer = ExprLexer(InputStream(input("?")))
+entrada = "15-34"
+
+#lexer = ExprLexer(InputStream(input("?")))
+lexer = ExprLexer(InputStream(entrada))
 
 tokens = CommonTokenStream(lexer)
 tokens.fill()
