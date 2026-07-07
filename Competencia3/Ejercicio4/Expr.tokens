@@ -1,0 +1,13 @@
+IF=1
+ID=2
+NUM=3
+IGUAL=4
+MAYOR=5
+MAS=6
+MENOS=7
+WS=8
+'if'=1
+'='=4
+'>'=5
+'+'=6
+'-'=7
