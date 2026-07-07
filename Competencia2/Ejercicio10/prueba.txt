@@ -1,0 +1,1 @@
+print("Wenn ich das als Erate verstehe, ...");
