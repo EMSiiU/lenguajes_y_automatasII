@@ -1,4 +1,4 @@
-// Generated from c:/Users/azare/OneDrive/Documents/GitHub/lenguajes_y_automatasII/Competencia2/Ejercicio10/Expr.g4 by ANTLR 4.13.1
+// Generated from c:/Escuela/9no_semestre/lenguajes_y_automatas2/Competencia2/Ejercicio10/Expr.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
