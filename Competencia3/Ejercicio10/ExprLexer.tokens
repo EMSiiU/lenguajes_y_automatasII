@@ -1,0 +1,10 @@
+PRINT=1
+PAR1=2
+PAR2=3
+PUNTO_COMA=4
+CADENA=5
+WS=6
+'print'=1
+'('=2
+')'=3
+';'=4
