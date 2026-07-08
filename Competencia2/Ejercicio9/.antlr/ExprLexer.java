@@ -1,4 +1,4 @@
-// Generated from c:/Users/azare/OneDrive/Documents/GitHub/lenguajes_y_automatasII/Competencia2/Ejercicio9/Expr.g4 by ANTLR 4.13.1
+// Generated from c:/Escuela/9no_semestre/lenguajes_y_automatas2/Competencia2/Ejercicio9/Expr.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
